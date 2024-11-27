@@ -4,4 +4,4 @@
 📚 Always learning new technologies to improve my skills!  
 🌟 Pronouns: she/her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-soaad)](https://github.com/https-soaad/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-soaad&show_icons=true&theme=radical)
