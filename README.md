@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https-soaad&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=So-Aad&show_icons=true&theme=radical)
 
 
 
